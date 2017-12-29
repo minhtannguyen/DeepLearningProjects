@@ -23,10 +23,14 @@ Any suggestions and pull requests are welcome.
   
 ## Deep Learning Theories Papers
   * [A Probabilistic Framework for Deep Learning](https://papers.nips.cc/paper/6231-a-probabilistic-framework-for-deep-learning), A. Patel et al., *NIPS*, 2016.
+  * [Convolutional Neural Networks Analyzed via Convolutional Sparse Coding](https://arxiv.org/pdf/1607.08194.pdf), V. Papyan et al., *arXiv*, 2016.
+  * [Working Locally Thinking Globally: Theoretical Guarantees for Convolutional Sparse Coding](https://arxiv.org/pdf/1707.06066.pdf), V. Papyan et al., *arXiv, 2017.
   * [Generalization in Deep Learning](https://arxiv.org/abs/1710.05468), K. Kawaguchi et al., *arXiv*, 2017.
+  * [Deep Learning without Poor Local Minima](http://papers.nips.cc/paper/6112-deep-learning-without-poor-local-minima.pdf), K. Kawaguchi, *NIPS*, 2016.
   * [Mathematics of Deep Learning](https://arxiv.org/pdf/1712.04741.pdf), R. Vidal et al., *arXiv*, 2017.
   * [Emergence of Invariance and Disentanglement in Deep Representations](https://arxiv.org/pdf/1706.01350.pdf), A. Achille et al., *ICML*, 2017
   * [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-), N. Tishby et al., 2017.
+  * [Theories for Deep Learning](https://stats385.github.io/readings), D. Donoho, *Course*. 
 
 ## Understanding Deep Learning Papers
   * [Understanding Deep Learning Requires Rethinking Generalization](https://openreview.net/pdf?id=Sy8gdB9xx), C. Zhang et al., *ICLR*, 2017

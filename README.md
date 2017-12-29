@@ -31,6 +31,8 @@ Any suggestions and pull requests are welcome.
   * [Mathematics of Deep Learning](https://arxiv.org/pdf/1712.04741.pdf), R. Vidal et al., *arXiv*, 2017.
   * [Emergence of Invariance and Disentanglement in Deep Representations](https://arxiv.org/pdf/1706.01350.pdf), A. Achille et al., *ICML*, 2017
   * [On the Information Bottleneck Theory of Deep Learning](https://openreview.net/pdf?id=ry_WPG-A-), N. Tishby et al., 2017.
+  * [On the expressive power of deep neural networks](https://arxiv.org/abs/1606.05336), M. Raghu et al., *ICML*, 2017.
+  * [Exponential expressivity in deep neural networks through transient chaos](https://arxiv.org/abs/1606.05340), B. Poole et al., *NIPS*, 2017.
   * [Theories for Deep Learning](https://stats385.github.io/readings), D. Donoho, *Course*. 
 
 ## Understanding Deep Learning Papers

@@ -4,17 +4,17 @@ Any suggestions and pull requests are welcome.
 
 # Bookmarks
   * [Tutorials for Deep Learning Frameworks](#tutorials-for-deep-learning-frameworks)
-  * [Deep Learning Theories](#deep-learning-theories)
-  * [Deep Learning Understanding](#deep-learning-understanding)
-  * [K-means](#k-means)
-  * [Mixture Models](#mixture-models)
-  * [Semi-supervised Learning](#semi-supervised-learning)
-  * [Optimal Transport](#optimal-transport)
-  * [Optimal Transport and GANs](#opt-transport-and-gan)
-  * [Domain Adaptation](#domain-adaptation)
-  * [GANs Theories](#gans-theories)
-  * [GANs Understanding](#gans-understandings)
-  * [Geometric Deep Learning](#geometric-deep-learning)
+  * [Deep Learning Theories](#deep-learning-theory-papers)
+  * [Deep Learning Understanding](#deep-learning-understanding-papers)
+  * [K-means](#k-means-papers)
+  * [Mixture Models](#mixture-models-papers)
+  * [Semi-supervised Learning](#semi-supervised-learning-papers)
+  * [Optimal Transport](#optimal-transport-papers)
+  * [Optimal Transport and ML Papers](#opt-transport-and-ml-papers)
+  * [Domain Adaptation](#domain-adaptation-papers)
+  * [GANs Theories](#gans-theory-papers)
+  * [GANs Understanding](#gans-understanding-papers)
+  * [Geometric Deep Learning](#geometric-deep-learning-papers)
   
 ## Tutorials for Deep Learning Frameworks
   * [PyTorch Installation](http://pytorch.org/)
@@ -64,7 +64,7 @@ Any suggestions and pull requests are welcome.
 ## GANs Theory Papers
  * [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/abs/1710.05488), N. Lei et al., *arXiv*, 2017.
 
-## GANs Understandings Papers
+## GANs Understanding Papers
  * [CycleGAN, a Master of Steganography](https://arxiv.org/abs/1712.02950), C. Chu et al., *arXiv*, 2017.
  
 ## Geometric Deep Learning Papers

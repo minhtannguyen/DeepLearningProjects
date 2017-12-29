@@ -7,7 +7,7 @@ Any suggestions and pull requests are welcome.
   * [Deep Learning Theories](#dl-theories)
   * [Understanding Deep Learning](#dl-understanding)
   * [Domain Adaptation](#domain-adapt)
-  * [K-means] (#k-means)
+  * [K-means](#k-means)
   * [Mixture Models](#mixture-models)
   * [Semi-supervised Learning](#semi-sup)
   

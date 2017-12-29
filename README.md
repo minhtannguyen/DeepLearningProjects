@@ -22,7 +22,7 @@ Any suggestions and pull requests are welcome.
   * [MXNet Installation](http://mxnet.incubator.apache.org/get_started/install.html)
   * [MXNet Tutorials](http://gluon.mxnet.io/)
   
-## Deep Learning Theories Papers
+## Deep Learning Theory Papers
   * [A Probabilistic Framework for Deep Learning](https://papers.nips.cc/paper/6231-a-probabilistic-framework-for-deep-learning), A. Patel et al., *NIPS*, 2016.
   * [Convolutional Neural Networks Analyzed via Convolutional Sparse Coding](https://arxiv.org/pdf/1607.08194.pdf), V. Papyan et al., *arXiv*, 2016.
   * [Working Locally Thinking Globally: Theoretical Guarantees for Convolutional Sparse Coding](https://arxiv.org/pdf/1707.06066.pdf), V. Papyan et al., *arXiv, 2017.
@@ -35,7 +35,7 @@ Any suggestions and pull requests are welcome.
   * [Exponential expressivity in deep neural networks through transient chaos](https://arxiv.org/abs/1606.05340), B. Poole et al., *NIPS*, 2017.
   * [Theories for Deep Learning](https://stats385.github.io/readings), D. Donoho, *Course*. 
 
-## Understanding Deep Learning Papers
+## Deep Learning Understanding Papers
   * [Understanding Deep Learning Requires Rethinking Generalization](https://openreview.net/pdf?id=Sy8gdB9xx), C. Zhang et al., *ICLR*, 2017
   
 ## K-means Papers
@@ -61,7 +61,7 @@ Any suggestions and pull requests are welcome.
   * [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828), A. Shrivastava et al., *CVPR*, 2017
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020), Y. Choi et al., *arXiv*, 2017.
 
-## GANs Theories Papers
+## GANs Theory Papers
  * [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/abs/1710.05488), N. Lei et al., *arXiv*, 2017.
 
 ## GANs Understandings Papers

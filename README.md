@@ -54,10 +54,10 @@ Any suggestions and pull requests are welcome.
   * [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828), A. Shrivastava et al., *CVPR*, 2017
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020), Y. Choi et al., *arXiv*, 2017.
 
-## GANs Theories
+## GANs Theories Papers
  * [A Geometric View of Optimal Transportation and Generative Model](https://arxiv.org/abs/1710.05488), N. Lei et al., *arXiv*, 2017.
 
-## GANs Understandings
+## GANs Understandings Papers
  * [CycleGAN, a Master of Steganography](https://arxiv.org/abs/1712.02950), C. Chu et al., *arXiv*, 2017.
 
   

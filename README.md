@@ -14,6 +14,7 @@ Any suggestions and pull requests are welcome.
   * [Domain Adaptation](#domain-adapt)
   * [GANs Theories](#gan-theories)
   * [GANs Understanding](#gan-understandings)
+  * [Geometric Deep Learning](#geometric-deep-learning)
   
 ## Tutorials for Deep Learning Frameworks
   * [PyTorch Installation](http://pytorch.org/)
@@ -63,5 +64,8 @@ Any suggestions and pull requests are welcome.
 
 ## GANs Understandings Papers
  * [CycleGAN, a Master of Steganography](https://arxiv.org/abs/1712.02950), C. Chu et al., *arXiv*, 2017.
+ 
+## Geometric Deep Learning Papers
+ * [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097), M. Bronstein et. al., *arXiv*, 2017.
 
   

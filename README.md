@@ -3,17 +3,17 @@ A list of papers regarding collaborations between Tan Nguyen (Rice) and Nhat Ho 
 Any suggestions and pull requests are welcome. 
 
 # Bookmarks
-  * [Tutorials for Deep Learning Frameworks](#coding-tutorials)
-  * [Deep Learning Theories](#dl-theories)
-  * [Deep Learning Understanding](#dl-understanding)
+  * [Tutorials for Deep Learning Frameworks](#tutorials-for-deep-learning-frameworks)
+  * [Deep Learning Theories](#deep-learning-theories)
+  * [Deep Learning Understanding](#deep-learning-understanding)
   * [K-means](#k-means)
   * [Mixture Models](#mixture-models)
-  * [Semi-supervised Learning](#semi-sup)
+  * [Semi-supervised Learning](#semi-supervised-learning)
   * [Optimal Transport](#optimal-transport)
-  * [Optimal Transport and GANs](#opt-transport-gan)
-  * [Domain Adaptation](#domain-adapt)
-  * [GANs Theories](#gan-theories)
-  * [GANs Understanding](#gan-understandings)
+  * [Optimal Transport and GANs](#opt-transport-and-gan)
+  * [Domain Adaptation](#domain-adaptation)
+  * [GANs Theories](#gans-theories)
+  * [GANs Understanding](#gans-understandings)
   * [Geometric Deep Learning](#geometric-deep-learning)
   
 ## Tutorials for Deep Learning Frameworks

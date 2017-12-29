@@ -10,7 +10,7 @@ Any suggestions and pull requests are welcome.
   * [Mixture Models](#mixture-models-papers)
   * [Semi-supervised Learning](#semi-supervised-learning-papers)
   * [Optimal Transport](#optimal-transport-papers)
-  * [Optimal Transport and ML Papers](#opt-transport-and-ml-papers)
+  * [Optimal Transport and ML Papers](#optimal-transport-and-ml-papers)
   * [Domain Adaptation](#domain-adaptation-papers)
   * [GANs Theories](#gans-theory-papers)
   * [GANs Understanding](#gans-understanding-papers)
